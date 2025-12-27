@@ -1,6 +1,6 @@
 ## Architecture Overview
 
-![RAG-Architecture](./architecture/RAG-Archicecture.jpg)
+![RAG-Architecture](./architecture/RAG-Architecture.jpg)
 
 ## Installation & Setup
 
